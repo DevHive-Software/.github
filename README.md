@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Opcional: reemplaza por tu banner -->
-  <!-- <img src="./assets/banner.png" /> -->
+  <img src="https://codexfight.com/devhive/devhive_logo.jpg" width="200" />
 </p>
 
 <h1 align="center">DevHive Software</h1>
@@ -23,9 +22,9 @@ DevHive es una empresa de desarrollo de software enfocada en construir productos
 
 Nos especializamos en:
 
-- Arquitecturas escalables
-- Código limpio y mantenible
-- Sistemas listos para producción
+- Arquitecturas escalables  
+- Código limpio y mantenible  
+- Sistemas listos para producción  
 
 No solo desarrollamos software, construimos activos digitales a largo plazo.
 
@@ -34,24 +33,24 @@ No solo desarrollamos software, construimos activos digitales a largo plazo.
 ## Servicios
 
 ### Desarrollo Web
-- Landing pages (Angular, React, Next.js)
-- Plataformas SaaS
-- Dashboards administrativos
+- Landing pages (Angular, React, Next.js)  
+- Plataformas SaaS  
+- Dashboards administrativos  
 
 ### Desarrollo Móvil
-- Aplicaciones con Flutter
-- Soluciones multiplataforma
-- Sistemas en tiempo real
+- Aplicaciones con Flutter  
+- Soluciones multiplataforma  
+- Sistemas en tiempo real  
 
 ### Backend y APIs
-- APIs REST
-- Microservicios
-- Autenticación y seguridad
+- APIs REST  
+- Microservicios  
+- Autenticación y seguridad  
 
 ### Cloud y DevOps
-- CI/CD pipelines
-- Contenedores (Docker)
-- Despliegues en cloud (AWS, GCP, VPS)
+- CI/CD pipelines  
+- Contenedores (Docker)  
+- Despliegues en cloud (AWS, GCP, VPS)  
 
 ---
 
@@ -67,11 +66,11 @@ No solo desarrollamos software, construimos activos digitales a largo plazo.
 
 Operamos bajo estándares profesionales:
 
-- Clean Architecture
-- Principios SOLID
-- Diseño de sistemas escalables
-- Seguridad desde el diseño
-- Optimización de rendimiento
+- Clean Architecture  
+- Principios SOLID  
+- Diseño de sistemas escalables  
+- Seguridad desde el diseño  
+- Optimización de rendimiento  
 
 ---
 
